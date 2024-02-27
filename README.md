@@ -1,6 +1,6 @@
-# Alinur Alipov
+# Alinur Alipov 🍏
 
-# Apple Tech Hub
+# Apple Tech Hub 🖥️
 
 This is a web application named "Apple Tech Hub," built with Node.js and Express.js, designed to provide various functionalities related to technology products and services.
 
@@ -76,12 +76,12 @@ This is a web application named "Apple Tech Hub," built with Node.js and Express
 
 ## Dependencies
 
-- [Express.js](https://expressjs.com/): Web application framework for Node.js
-- [Mongoose](https://mongoosejs.com/): MongoDB object modeling for Node.js
-- [bcrypt](https://www.npmjs.com/package/bcrypt): Library for password hashing and salting
-- [express-session](https://www.npmjs.com/package/express-session): Session middleware for Express.js
-- [Nodemailer](https://nodemailer.com/): Library for sending emails from Node.js
-- [dotenv](https://www.npmjs.com/package/dotenv): Loads environment variables from a .env file into process.env
+- Express.js 🚀: Web application framework for Node.js
+- Mongoose 🏬: MongoDB object modeling for Node.js
+- bcrypt 🔒: Library for password hashing and salting
+- express-session 🕸️: Session middleware for Express.js
+- Nodemailer 📧: Library for sending emails from Node.js
+- dotenv 🛠️: Loads environment variables from a .env file into process.env
 
 
 Sure, here's how you can explain the three APIs used in the provided code in the README:
@@ -95,16 +95,16 @@ The application utilizes three external APIs to enrich its features:
 ## 1. IP Geolocation API
 The IP Geolocation API is employed to ascertain the geographical location of the user based on their IP address. By capturing the user's IP address, the application queries the IP Geolocation API to retrieve details such as country, city, and coordinates. This information enhances user experience by offering location-specific content and services.
 
-API Endpoint: https://ipapi.co/json/
+API Endpoint: https://ipapi.co/json/ 🌍
 
 ##2. FonoAPI
 The FonoAPI serves as a comprehensive database of device specifications, including smartphones, tablets, and other electronic gadgets. In the application, this API is utilized to fetch detailed specifications of various tech products. Users can access this information to compare devices, view specifications, and make informed purchasing decisions.
 
-API Endpoint: https://fonoapi.freshpixl.com/v1/
+API Endpoint: https://fonoapi.freshpixl.com/v1/📱
 
 ##3. ExchangeRate API
 The ExchangeRate API provides real-time and historical foreign exchange rates. In the context of the "Apple Tech Hub" application, this API is integrated to facilitate currency conversion for international users. By accessing current exchange rates, the application enables users to view prices in their preferred currency, promoting a seamless shopping experience across different regions.
 
-API Endpoint: https://api.exchangerate-api.com/
+API Endpoint: https://api.exchangerate-api.com/💱
 
 ---
