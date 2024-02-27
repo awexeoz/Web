@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('https://million-wallpapers.ru/wallpapers/3/62/472488580412863/ara-bett-rylymy.jpg');
+}
+
+.main-container {
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 0.5em;
+    font-size: 50px;
+    color: #fff;
+}
+
+nav a {
+    display: inline-block;
+    margin: 0 1em;
+    text-decoration: none;
+    background: #060a15;
+    color: white;
+    padding: 0.5em 1em;
+    border-radius: 16px;
+}
+
